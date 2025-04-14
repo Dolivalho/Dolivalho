@@ -1,4 +1,4 @@
-### Hi there, my name is Davi! 👋
+### Front-end Developer Intern at Embraer, passionate about crafting user-centric solutions for Industry 4.0. I excel in building dynamic interfaces with React.js and TypeScript, while also delivering Full Stack applications using Python and MySQL. With hands-on experience in IoT (RFID) and MQTT, I’ve developed production-ready systems—like a logistics asset management tool—that reduced aircraft assembly time and enhanced operational efficiency. I thrive in agile environments (Scrum), analyzing requirements and automating KPIs to bridge teams and tech. Committed to continuous learning, I’m driven to create impactful, scalable software.
 
 ![snake gif](https://github.com/Dolivalho/Dolivalho/blob/output/github-contribution-grid-snake.gif)
 <!--
