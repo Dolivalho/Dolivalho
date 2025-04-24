@@ -1,7 +1,5 @@
-### Front-end Developer, passionate about crafting user-centric solutions for Industry 4.0. 
-I excel in building dynamic interfaces with React.js and TypeScript, while also delivering Full Stack applications using Python and MySQL. 
-With hands-on experience in IoT (RFID) and MQTT, I’ve developed production-ready systems—like a logistics asset management tool—that reduced aircraft assembly time and enhanced operational efficiency. 
-I thrive in agile environments (Scrum), analyzing requirements and automating KPIs to bridge teams and tech. Committed to continuous learning, I’m driven to create impactful, scalable software.
+### Desenvolvedor Front-end, apaixonado por criar soluções centradas no usuário para a Indústria 4.0.
+Desenvolvedor Front-end apaixonado por criar interfaces dinâmicas com React.js e TypeScript, além de soluções Full Stack com Python e MySQL. Com experiência prática em IoT (RFID) e MQTT, desenvolvi sistemas prontos para produção, como uma ferramenta de gestão de ativos logísticos, que reduziu o tempo de montagem de aeronaves e aumentou a eficiência operacional. Eu prospero em ambientes ágeis (Scrum), analisando requisitos e automatizando KPIs para conectar equipes e tecnologia. Comprometido com o aprendizado contínuo, sou movido a criar softwares impactantes e escaláveis.
 
 ![snake gif](https://github.com/Dolivalho/Dolivalho/blob/output/github-contribution-grid-snake.gif)
 <!--
