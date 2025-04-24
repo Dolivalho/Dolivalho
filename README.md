@@ -1,7 +1,7 @@
 ## 👨🏾‍💻 Davi Oliveira Carvalho
 Desenvolvedor Front-end apaixonado por criar soluções centradas no usuário para a Indústria 4.0, com foco em interfaces dinâmicas com React.js e TypeScript, além de soluções Full Stack com Python e MySQL. Com experiência prática em IoT (RFID) e MQTT, desenvolvi sistemas prontos para produção, como uma ferramenta de gestão de ativos logísticos, que reduziu o tempo de montagem de aeronaves e aumentou a eficiência operacional. Eu prospero em ambientes ágeis (Scrum), analisando requisitos e automatizando KPIs para conectar equipes e tecnologia. Comprometido com o aprendizado contínuo, sou movido a criar softwares impactantes e escaláveis.
 
-![snake gif](https://github.com/Dolivalho/Dolivalho/blob/output/github-contribution-grid-snake-dark.gif)
+![snake gif](https://github.com/Dolivalho/Dolivalho/blob/output/github-contribution-grid-snake.gif)
 <!--
 **Dolivalho/Dolivalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
